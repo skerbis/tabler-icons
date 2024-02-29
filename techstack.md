@@ -3,15 +3,15 @@
 ## Tech Stack
 skerbis/tabler-icons is built on the following main stack:
 
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -22,15 +22,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 skerbis/tabler-icons is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [skerbis/tabler-icons](https://github.com/skerbis/tabler-icons)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|01/05/24 <br/>Report generated|
+|31<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
